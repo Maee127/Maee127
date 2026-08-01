@@ -8,7 +8,9 @@ building reliable systems for documents, audio, business data, and model decisio
 ## 🚀 What I Build
 
 I design applied AI systems that transform unstructured business information—such as documents, catalogues, contracts, and recorded conversations—into structured, reviewable, and actionable results.
+
 ---
+
 
 ## 📂 Featured Work
 
