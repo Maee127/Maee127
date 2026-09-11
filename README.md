@@ -1,60 +1,182 @@
-# Hi, I'm Maedeh Torkian 👋
+# Hi, I'm Maedeh Torkian 
 
-**Applied AI and Machine Learning Engineer** 
-building reliable systems for documents, audio, business data, and model decision support.
+**Applied AI & Machine Learning Engineer**
+
+I build reliable AI systems for **sales intelligence, document understanding, speech analysis, and AI-assisted business workflows**.
+
+My work focuses on turning complex or unstructured information—such as customer interactions, sales calls, contracts, catalogues, and documents—into **structured, reviewable, and actionable outputs**.
+
+Rather than treating the model call as the whole solution, I work on the engineering around it: ingestion, preprocessing, structured outputs, validation, uncertainty handling, persistence, APIs, testing, privacy, and human review.
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
-I design applied AI systems that transform unstructured business information—such as documents, catalogues, contracts, and recorded conversations—into structured, reviewable, and actionable results.
+I design applied AI systems that help businesses reduce repetitive manual work, identify useful signals in complex data, and make AI outputs easier to inspect and use in real workflows.
+
+My current work focuses on:
+
+* AI agents and business automation
+* Lead qualification and sales intelligence
+* Speech and sales-call analysis
+* Document and PDF intelligence
+* Vision-language model pipelines
+* Retrieval-augmented generation
+* Structured extraction from unstructured data
+* AI reliability and uncertainty
+* Backend and data-pipeline integration
 
 ---
-
 
 ## 📂 Featured Work
 
-### 🧠 Applied AI Agents
-- **Sales Call Analysis Agent** – Transcribe and analyze sales conversations
-- **Catalog Vision Extractor** – Extract structured data from product catalogs
-- **Contract Analysis Agent** – Automate contract review and risk assessment
+### Applied AI Systems
 
-### 🔬 AI Reliability Research
-- The Humble Model Series
-- Adversarial robustness
-- Uncertainty and OOD detection
+#### [Agents](https://github.com/Maee127/Agents)
 
-### 📊 Machine Learning Applications
-- California House Price Predictor
-- Classification and model comparison
+A collection of applied AI systems built around real business workflows.
+
+**Sales Call Analysis Agent**
+Transforms recorded sales conversations into structured, speaker-aware, and evidence-grounded performance insights through audio processing, transcription, diarization, speaker-role assignment, and rubric-based evaluation.
+
+**Catalog Vision Extractor**
+Processes visually complex PDF catalogues using vision-capable models and converts product and pricing information into validated, normalized Excel data.
+
+**Contract Analysis Agent**
+Analyzes contracts clause by clause and produces structured findings for obligations, risks, and supporting evidence through a local-first AI workflow.
+
+---
+
+#### [Lead Intelligence Pipeline](https://github.com/Maee127/ai-assisted)
+
+A privacy-aware AI pipeline for turning authorized customer interactions into structured lead intelligence, qualification signals, and customer-care routing.
+
+The project includes:
+
+* authorized interaction ingestion
+* lead and customer-care classification
+* uncertainty escalation
+* interest extraction
+* catalogue-grounded retrieval
+* tenant-aware persistence
+* privacy and erasure foundations
+* evidence and model-version tracking
+
+The goal is to help businesses distinguish meaningful sales opportunities from support, irrelevant, and uncertain interactions while preserving clear privacy and access boundaries.
+
+---
+
+### AI Reliability Research
+
+#### [Adversarial Notebooks — The Humble Model Series](https://github.com/Maee127/Adversarial-Notebooks)
+
+An ongoing research and technical-writing series exploring a broader question:
+
+> How can a model become more aware of when its own predictions may be unreliable?
+
+The work covers:
+
+* adversarial attacks and defenses
+* uncertainty estimation
+* out-of-distribution detection
+* decision-boundary awareness
+* architectural uncertainty signals
+* evidential learning
+* model robustness and selective prediction
+
+The notebooks support the **Humble Model Series**, published through Medium and Towards AI.
+
+---
+
+### 📊 Machine Learning Foundations & Applications
+
+#### [California House Price Predictor](https://github.com/Maee127/House_Price_Predictor)
+
+An end-to-end regression application covering data preparation, model comparison, evaluation, saved-model inference, and Streamlit deployment.
+
+#### [ML Training](https://github.com/Maee127/ML-Training)
+
+Comparative classification experiments covering preprocessing, classical ML models, boosting methods, evaluation, and reusable model pipelines.
 
 ---
 
 ## 🛠️ Problems I Can Help Solve
 
-- Automating repetitive document review
-- Extracting structured data from complex PDFs
-- Analyzing sales calls and coaching performance
-- Building RAG and rubric-evaluation systems
-- Integrating AI models with APIs and databases
-- Designing human-review and reliability controls
+I am particularly interested in business problems where useful information exists but is difficult, repetitive, or expensive to process manually.
+
+Examples include:
+
+* turning complex PDFs and documents into structured data;
+* analyzing large volumes of recorded sales conversations;
+* identifying lead intent and prioritizing customer interactions;
+* separating sales opportunities from customer-care cases;
+* grounding AI decisions in business catalogues or knowledge bases;
+* designing RAG and rubric-based evaluation systems;
+* integrating AI models with APIs, databases, and existing workflows;
+* validating and structuring probabilistic model outputs;
+* handling uncertain cases instead of forcing unreliable predictions;
+* designing human-review and evidence-traceability mechanisms.
 
 ---
 
-## 💻 Technical Focus
+## ⚙️ How I Approach AI Systems
 
-**Python** · **FastAPI** · **PostgreSQL** · **Pydantic** · **PyTorch** · **Transformers** · **RAG** · **NLP** · **Speech AI** · **Vision LLMs** · **Docker** · **Testing**
+I try to build beyond the AI demo.
+
+A typical workflow may involve:
+
+`Input → Validation → Preprocessing → AI Model → Structured Output → Verification → Persistence → Business Action`
+
+Depending on the system, I also design for:
+
+* provider-independent model interfaces
+* deterministic preprocessing
+* schema validation
+* retry and failure isolation
+* confidence and uncertainty handling
+* source evidence
+* privacy-aware data handling
+* automated testing
+* static typing
+* human review
+* maintainable system boundaries
+
+My goal is not simply to generate an AI response, but to make that response **usable, inspectable, and reliable enough to become part of a real workflow**.
 
 ---
 
-## ✍️ Writing and Research
+## Technical Focus
 
-📝 [Medium – The Humble Model Series](https://medium.com/@maedeh.torkian)
+**Languages & Backend**
+Python · SQL · FastAPI · Pydantic
+
+**AI & Machine Learning**
+PyTorch · Transformers · Scikit-learn · NLP · RAG · AI Agents · Vision LLMs · Speech AI
+
+**Data & Persistence**
+PostgreSQL · pgvector · SQLAlchemy · Alembic · pandas · Excel · JSON
+
+**Speech & Document Processing**
+faster-whisper · FFmpeg · FFprobe · PyMuPDF · PDF processing
+
+**Engineering**
+pytest · Ruff · mypy · Docker · Git · GitHub Actions · API integration
+
+---
+
+## ✍️ Writing & Research
+
+I write the **Humble Model Series**, where I explore adversarial robustness, uncertainty, model awareness, and the limits of confidence in machine-learning systems.
+
+📝 [Medium — @maedehtorkian](https://medium.com/@maedehtorkian)
+
+🔬 [Humble Model Series — Research Repository](https://github.com/Maee127/Adversarial-Notebooks)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maedeh-torkian) 
-[![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@maedeh.torkian) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue)](https://www.kaggle.com/maedehtorkian)
+* **Email:** [maede.torkian@gmail.com](mailto:maede.torkian@gmail.com)
+* **LinkedIn:** [Maedeh Torkian](https://www.linkedin.com/in/maedeh-torkian)
+* **Medium:** [@maedehtorkian](https://medium.com/@maedehtorkian)
+* **Telegram:** [@maedehtorkian](https://t.me/maedehtorkian)
