@@ -64,6 +64,23 @@ The project includes:
 
 The goal is to help businesses distinguish meaningful sales opportunities from support, irrelevant, and uncertain interactions while preserving clear privacy and access boundaries.
 
+
+#### Healthcare Workflow Projects — In Progress
+
+I am extending my applied AI work into healthcare operations through a set of workflow-focused projects. The goal is to organize patient interactions and service journeys clearly, help teams notice unresolved issues and response delays, and support staff with structured AI assistance.
+
+Current directions include:
+
+* **Patient Journey Monitor** — a case-centered workflow for tracking multiple patient journeys, issues, interaction events, ownership, response windows, and escalations. Its design treats each journey as a distinct case and supports concurrent work across staff members.
+* **AI Patient Intake Assistant** — an intake workflow in progress, focused on collecting information through a structured conversation, validating it, and preparing a clear summary for human review.
+* **Reusable healthcare workflow architecture** — a shared approach to normalizing interactions and operational events across communication channels, with advisor-facing AI support and human oversight.
+
+These projects are under active development. I will add public repository links and implementation details when they are ready to share.
+
+#### Two Additional Research Series — Private Repositories
+
+I am also developing **two new research series**, currently maintained in private repositories. I am recording their experiments and progression privately while the work develops; I will publish their names and links when they are ready for public release.
+
 ---
 
 ### AI Reliability Research
@@ -86,6 +103,9 @@ The work covers:
 
 The notebooks support the **Humble Model Series**, published through Medium and Towards AI.
 
+
+The public repository now includes the Essay #8 companion notebook and a refreshed reading path. Essay #8, **“Does the Model Know Where It Looks,”** examines attention entropy as a possible reliability signal and is marked in progress. The series documents experimental limitations and avoids treating attention maps as faithful explanations by default.
+
 ---
 
 ### 📊 Machine Learning Foundations & Applications
@@ -97,6 +117,29 @@ An end-to-end regression application covering data preparation, model comparison
 #### [ML Training](https://github.com/Maee127/ML-Training)
 
 Comparative classification experiments covering preprocessing, classical ML models, boosting methods, evaluation, and reusable model pipelines.
+
+---
+
+## 🗂️ Additional Public Projects
+
+The projects below show earlier and supporting work across application prototypes, machine learning, data analysis, and visualization:
+
+#### [Bots](https://github.com/Maee127/Bots)
+AI-powered application prototypes combining model integration, APIs, databases, and deployable interfaces.
+
+#### [Advanced Data Visualization](https://github.com/Maee127/Advanced-Data-Visualization)
+Practical visualization studies using Iris and world-population datasets to explain relationships and distributions.
+
+#### [Regression Analysis — Wine](https://github.com/Maee127/RegressionAnalysis_Wine)
+A regression study focused on hyperparameter tuning and overfitting.
+
+#### [EDA for Datasets](https://github.com/Maee127/EDA-for-Datasets)
+Exploratory data analysis projects that use datasets to identify and communicate patterns.
+
+#### [Financial Dashboard](https://github.com/Maee127/Financial-Dashboard)
+A financial dashboard and analysis project.
+
+The [ML Training](https://github.com/Maee127/ML-Training) and [California House Price Predictor](https://github.com/Maee127/House_Price_Predictor) projects are described above. Together, these repositories show the progression from foundational analysis and modeling to integrated applied AI systems.
 
 ---
 
